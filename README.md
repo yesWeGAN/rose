@@ -8,9 +8,9 @@ Converting Elegoo Smart Robot Car v4.0 (with camera) into a ROS2 agent with visi
 ### milestones
 
 #### 14.02.24
-Backed myself into a corner by updating Ubuntu 20.04 -> 22.04: 
-rosserial won't work with ROS2, ROS1 has no distro on 20.04
-proceeding with microROS, but it's too big for my Arduino Uno
+Backed myself into a corner by updating Ubuntu 20.04 -> 22.04: <br>
+rosserial won't work with ROS2, ROS1 has no distro on 22.04 <br>
+proceeding with microROS, but it's too big for my Arduino Uno<br>
 
 Next steps:
 - use Espressif ESP32 WROVER with microROS
