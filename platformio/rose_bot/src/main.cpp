@@ -12,7 +12,7 @@
 #include "esp_camera.h"
 #include <WiFiManager.h>
 
-#define CAMERA_MODEL_WROVER_KIT // Has PSRAM
+#define CAMERA_MODEL_M5STACK_WIDE // Has PSRAM
 
 #include "camera_pins.h"
 
